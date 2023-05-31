@@ -1,8 +1,8 @@
 {
-  "name": "helioslauncher",
+  "name": "melonlauncher",
   "version": "2.0.4",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
+  "productName": "Melon Launcher",
+  "description": "Melon Minecraft Launcher",
   "author": "Senne (https://github.com/sennecoolgames)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/sennecoolgames/MelonLauncher",
